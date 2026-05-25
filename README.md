@@ -1,4 +1,4 @@
-# Robo-Flower: Real-Time Hand Gesture Control of Kinetic Sculptures using Object Detection
+# Blooming Polygons: Real-Time Hand Gesture Control of Kinetic Sculptures using Object Detection
 Gesture-controlled kinetic sculpture using YOLOv8. Six robotic flowers move based on hand signs.
 
 ## Introduction
